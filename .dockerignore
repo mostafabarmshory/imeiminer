@@ -1,0 +1,25 @@
+build
+docs
+dist
+.tox
+
+
+# Configuration files
+.coverage
+.coveragerc
+.dockerignore
+.gitignore
+.project
+.pydevproject
+.readthedocs.yml
+AUTHORS.rst
+CHANGELOG.rst
+CONTRIBUTING.rst
+docker-compose.yaml
+docker-compose-test.yaml
+Dockerfile
+LICENSE.txt
+Pipfile.lock
+pyproject.toml
+README.md
+README.rst
